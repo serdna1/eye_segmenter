@@ -2,6 +2,9 @@
 
 Este proyecto es mi segunda práctica de la asignatura "Visión Artifial". En ella se pedía segmentar pupila, iris y esclerótica a partir de imágenes oculares.
 
+## Dataset
+Para probar la app se me proporcionó un dataset de 16 imágenes, que se pueden encontrar en [este enlace de google drive](https://drive.google.com/drive/folders/1krUEHCnYjGHp5d2WcLWAHygYgknjDeEL?usp=sharing)
+
 ## Ejecución
 El único argumento es el nombre de la imagen con extensión:
 ```
