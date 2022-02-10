@@ -5,7 +5,7 @@ Este proyecto es mi segunda práctica de la asignatura "Visión Artifial". En el
 ## Ejecución
 El único argumento es el nombre de la imagen con extensión:
 ```
-python eye_segmenter.py aeval1.bmp
+python app.py aeval1.bmp
 ```
 
 ## Resultado
