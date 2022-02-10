@@ -6,6 +6,7 @@ Este proyecto es mi segunda práctica de la asignatura "Visión Artifial". En el
 Para probar la app se me proporcionó un dataset de 16 imágenes, que se pueden encontrar en [este enlace de google drive](https://drive.google.com/drive/folders/1krUEHCnYjGHp5d2WcLWAHygYgknjDeEL?usp=sharing)
 
 ## Ejecución
+Es necesario tener una carpeta llamada "ojos", con las imagenes oculares, en el mismo path que el fichero .py.<br><br>
 El único argumento es el nombre de la imagen con extensión:
 ```
 python app.py aeval1.bmp
